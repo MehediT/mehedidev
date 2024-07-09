@@ -20,6 +20,6 @@ This repository hosts a portfolio showcase website. The website is designed to p
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository :
    ```sh
    git clone https://github.com/MehediT/mehedidev.git
